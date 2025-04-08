@@ -21,7 +21,7 @@ A simple React web app that shows real-time sensor data from [ThingSpeak](https:
 ### 1. Clone this project
 
 ```bash
-https://github.com/pri-yanka3005/EDP.git
+git clone https://github.com/pri-yanka3005/EDP.git
 cd EDP
 
 ````
